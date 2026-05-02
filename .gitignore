@@ -1,0 +1,9 @@
+# Ignore build files
+*.exe
+*.o
+
+# Ignore data file
+inventory.dat
+
+# Optional
+*.log
