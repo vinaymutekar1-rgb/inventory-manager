@@ -1,4 +1,4 @@
- # Hybrid Inventory Manager - Capstone Project
+# Hybrid Inventory Manager - Capstone Project
 
 A complete inventory management system demonstrating hybrid C/C++ programming with a C backend and C++ frontend.
 
@@ -18,7 +18,7 @@ inventory_project/
 └── README.md                # This file
 ```
 
-git --version## Features
+## Features
 
 ### C Backend (inventory.c)
 - **Binary file operations** using `inventory.dat`
